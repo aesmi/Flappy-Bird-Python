@@ -1,3 +1,4 @@
+#imports
 import pygame, sys, random 
 
 #function used to draw floor for abstraction/simplfication
